@@ -12,7 +12,11 @@ df.info()
 # Data cleaning and check missing values
 df["parental_education_level"].fillna("Unknown",inplace=True)
 print(df.isnull().sum())
-df.drop("student_id", axis=1, inplace=True)
+df["exam_score"] = df["exam_score"].round()
+
+bins = [0, 50, 80, 100]
+labels = ["Low Score", "Mid Scores", "High Scores"]
+df["Score_Category"] = pd.cut(df["exam_score"], bins = bins, labels = labels, include_lowest = True)
 print(df.head())
 
 # Visualization (Study hours impact to exam scores)
