@@ -25,4 +25,4 @@ Mental health ratings were lower among students whose parents had a Master’s d
 
 -- Author
 Nafis Fairuza
-https://www.linkedin.com/in/nafis-fairuza
+[https://www.linkedin.com/in/nafis-fairuza](https://www.linkedin.com/in/nafis-fairuza-589432171/)
