@@ -2,14 +2,17 @@
 This project analyzes how student habits such as study hours, sleep, mental health, and parental education level impact academic performance.
 
 -- Dataset Source
+
 The dataset used in this project comes from Kaggle:
 https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance
 
 -- Tools Used
+
 Python – for data cleaning and exploratory data analysis (EDA)
 Tableau – for visualization and dashboard creation
 
 -- Dashboard
+
 Here's a screenshot of the dashboard created in Tableau:
 <img width="593" height="403" alt="image" src="https://github.com/user-attachments/assets/7a999ae7-7137-40ef-afd9-9a2d25cdff95" />
 
