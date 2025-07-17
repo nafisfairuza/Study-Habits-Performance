@@ -19,6 +19,7 @@ Here's a screenshot of the dashboard created in Tableau:
 
 
 -- Key Insights
+
 This analysis provides an interesting look into how parental education may influence their children's academic performance and mental well-being. While it's commonly assumed that higher parental education correlates with better outcomes, the data tells a different story:
 
 1. Exam Scores
